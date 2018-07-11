@@ -1,4 +1,4 @@
-###Distributing simple Smart contract using Remix, MyEtherWallet, MetaMask and Ropsten test network
+### Distributing simple Smart contract using Remix, MyEtherWallet, MetaMask and Ropsten test network
 
 This article was written to help those who want to distribute the simple smart contract and use the contract.
 This article is for apprentice level developer like myself.
